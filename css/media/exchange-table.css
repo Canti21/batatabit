@@ -1,0 +1,6 @@
+.main-tables-container
+{
+    display: flex;
+    justify-content: center;
+    overflow-x: visible;
+}
